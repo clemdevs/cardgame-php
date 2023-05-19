@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CardTest::testFaceCard":5,"CardTest::testToString":5,"CardTest::testComparable":5},"times":{"CardTest::testFaceCard":0.004,"CardTest::testToString":0,"CardTest::testComparable":0}}
